@@ -1,0 +1,5 @@
+
+Nome: Diprona 500mg, Quantidade: 10, Código: 123, Tipo: Analgésico
+Nome: Amoxicilina 500mg, Quantidade: 20, Código: 456, Tipo: Antibiótico
+Nome: Ibuprofeno 400mg, Quantidade: 15, Código: 789, Tipo: Anti-inflamatório
+
